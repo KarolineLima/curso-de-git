@@ -1,7 +1,7 @@
 # Descrição 
 - Curso de Git e Github
 # Aluno
--Karol
+- Karol
 # Instrutor 
--Fabricio
+- Fabricio
 
